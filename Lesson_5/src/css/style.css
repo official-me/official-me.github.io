@@ -1,0 +1,21 @@
+h2 {
+	text-align: center;
+	color: #9fe246; 
+}
+h1 {
+	text-align: center;
+}
+a {
+	color: #9fe246;
+}
+.menu {
+	background-color: #f2f4ef;
+	border: solid black;
+}
+span {
+	font-weight: bold;
+}
+.name {
+	background-color: #9fe246;
+	color: white;
+}
