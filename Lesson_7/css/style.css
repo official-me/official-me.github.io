@@ -1,0 +1,106 @@
+/* Общие стили */
+* {
+	box-sizing: border-box;
+	font-family: Tahoma, sans-serif;
+	color: #333333;
+	text-align: center;
+}
+
+/* Стили для блока 1 */
+.block-1 h1 span {
+	display: block;
+	font-size: 24px;
+	font-weight: 300;
+}
+.block-1 h1 strong {
+	display: block;
+	font-size: 24px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+.block-1 {
+	margin-top: 120px;
+}
+.video {
+	vertical-align: top;
+	display: inline-block;
+	margin-top: 85px;
+}
+.form {
+	padding: 30px 20px;
+	vertical-align: top;
+	border: 5px solid #3c3cdd;
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 85px;
+}
+.form input {
+	font-weight: 300;
+	text-align: left;
+	padding: 20px;
+	font-size: 18px;
+	margin-bottom: 10px;
+	width: 300px;
+	height: 50px;
+	display: block;
+}
+.form p {
+	font-weight: 900;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+.form button {
+	color: #fff;
+	font-size: 18px;
+	width: 300px;
+	height: 65px;
+	background-color: #3c3cdd; 
+}
+
+/* Стили для блока 2 */
+.block-2 {
+	margin-top: 150px;
+}
+.block-2 h1 {
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: 900;
+	margin-bottom: 85px;
+}
+.mini-block {
+	display: inline-block;
+	margin: 0px 55px;
+}
+.mini-block p {
+	font-size: 16px;
+	font-weight: 900;
+	margin-top: 20px;
+}
+.block-2 button {
+	margin-top: 95px;
+	color: #fff;
+	font-size: 18px;
+	width: 300px;
+	height: 65px;
+	background-color: #3c3cdd; 
+}
+
+/* Стили для блока 3 */
+.block-3 {
+	margin-top: 100px;
+}
+.block-3 h1 {
+	font-size: 24px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-bottom: 70px;
+}
+.block-3 img {
+	width: 215px;
+	height: 215px;
+	margin: 30px;
+}
+.block-3 .part-2 {
+	display: block;
+}
