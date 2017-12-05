@@ -13,4 +13,4 @@
 
 [Урок 8](https://official-me.github.io/Lesson_8/ "Ссылка на 8 урок")
 
-[Урок 9](https://official-me.github.io/Lesson_4/ "Ссылка на 9 урок")
+[Урок 9](https://official-me.github.io/Lesson_9/ "Ссылка на 9 урок")
