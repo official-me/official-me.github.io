@@ -14,3 +14,5 @@
 [Урок 8](https://official-me.github.io/Lesson_8/ "Ссылка на 8 урок")
 
 [Урок 9](https://official-me.github.io/Lesson_9/ "Ссылка на 9 урок")
+
+[Практика 1.01](https://official-me.github.io/Pracrik/ "Ссылка на 9 урок")
